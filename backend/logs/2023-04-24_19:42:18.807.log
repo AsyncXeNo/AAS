@@ -1,0 +1,18 @@
+[2023-04-24 19:42:18.869] > Server listening on port 8000
+[2023-04-24 19:42:20.152] > Connected to MongoDB
+[2023-04-24 19:42:21.092] > POST /users/student/login
+[2023-04-24 19:42:21.127] > Error caught in middleware: Student does not exist
+[2023-04-24 19:42:23.906] > POST /users/faculty/login
+[2023-04-24 19:42:24.013] > Error caught in middleware: Faculty does not exist
+[2023-04-24 19:43:24.577] > POST /users/faculty/login
+[2023-04-24 19:43:24.606] > Error caught in middleware: Faculty does not exist
+[2023-04-24 19:44:09.968] > POST /users/admin/login
+[2023-04-24 19:44:10.142] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:44:32.257] > POST /users/admin/login
+[2023-04-24 19:44:32.287] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:44:34.501] > POST /users/faculty/login
+[2023-04-24 19:44:34.615] > Error caught in middleware: Faculty does not exist
+[2023-04-24 19:44:38.100] > POST /users/student/login
+[2023-04-24 19:44:38.199] > Error caught in middleware: Student does not exist
+[2023-04-24 19:44:41.964] > POST /users/admin/login
+[2023-04-24 19:44:42.091] > Error caught in middleware: Incorrect Credentials

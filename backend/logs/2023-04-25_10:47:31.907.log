@@ -1,0 +1,24 @@
+[2023-04-25 10:47:31.964] > Server listening on port 8000
+[2023-04-25 10:47:33.825] > Connected to MongoDB
+[2023-04-25 10:47:36.316] > GET /users/faculty/me
+[2023-04-25 10:47:36.325] > GET /users/faculty/me
+[2023-04-25 10:47:37.090] > GET /users/faculty/class
+[2023-04-25 10:47:37.480] > GET /users/faculty/class
+[2023-04-25 10:47:54.407] > GET /users/faculty/me
+[2023-04-25 10:47:55.269] > GET /users/faculty/class
+[2023-04-25 10:47:57.348] > GET /users/faculty/me
+[2023-04-25 10:47:57.856] > GET /users/faculty/class
+[2023-04-25 10:48:00.192] > GET /users/faculty/me
+[2023-04-25 10:48:00.498] > GET /users/faculty/class
+[2023-04-25 10:48:03.081] > GET /users/faculty/me
+[2023-04-25 10:48:03.084] > GET /users/faculty/me
+[2023-04-25 10:48:04.079] > GET /users/faculty/class
+[2023-04-25 10:48:04.267] > GET /users/faculty/class
+[2023-04-25 10:50:29.971] > GET /users/faculty/me
+[2023-04-25 10:50:30.444] > GET /users/faculty/me
+[2023-04-25 10:50:30.451] > GET /users/faculty/class
+[2023-04-25 10:50:30.863] > GET /users/faculty/class
+[2023-04-25 10:50:32.025] > GET /users/faculty/me
+[2023-04-25 10:50:32.028] > GET /users/faculty/me
+[2023-04-25 10:50:32.495] > GET /users/faculty/class
+[2023-04-25 10:50:33.092] > GET /users/faculty/class

@@ -1,0 +1,60 @@
+[2023-04-25 10:11:04.834] > Server listening on port 8000
+[2023-04-25 10:11:07.634] > Connected to MongoDB
+[2023-04-25 10:13:03.434] > POST /users/faculty/login
+[2023-04-25 10:13:03.650] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 10:14:04.650] > POST /users/admin/login
+[2023-04-25 10:14:05.286] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 10:14:06.682] > GET /users/student/all
+[2023-04-25 10:14:07.277] > GET /users/student/all
+[2023-04-25 10:14:09.111] > GET /users/faculty/all
+[2023-04-25 10:14:11.538] > GET /class/all
+[2023-04-25 10:14:11.672] > GET /class/all
+[2023-04-25 10:14:23.097] > GET /users/faculty/all
+[2023-04-25 10:14:24.250] > GET /users/faculty/all
+[2023-04-25 10:14:25.751] > GET /users/faculty/all
+[2023-04-25 10:14:26.731] > GET /users/faculty/all
+[2023-04-25 10:14:33.393] > GET /class/all
+[2023-04-25 10:14:33.696] > GET /class/all
+[2023-04-25 10:14:41.977] > POST /users/student/login
+[2023-04-25 10:14:42.167] > User logged in as student { id: 6447482e8a873809d4426809, username: imon }
+[2023-04-25 10:14:42.207] > GET /users/student/me
+[2023-04-25 10:14:42.510] > GET /users/student/me
+[2023-04-25 10:14:50.964] > POST /users/faculty/login
+[2023-04-25 10:14:51.207] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 10:43:24.121] > GET /users/faculty/me
+[2023-04-25 10:43:32.012] > GET /users/faculty/me
+[2023-04-25 10:43:32.014] > GET /users/faculty/me
+[2023-04-25 10:43:54.126] > Error caught in middleware: Not authorized
+[2023-04-25 10:44:01.594] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:01.603] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:06.140] > GET /users/faculty/me
+[2023-04-25 10:44:06.145] > GET /users/faculty/me
+[2023-04-25 10:44:06.195] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:06.222] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:25.957] > GET /users/faculty/me
+[2023-04-25 10:44:25.966] > GET /users/faculty/me
+[2023-04-25 10:44:26.071] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:26.073] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:56.460] > POST /users/faculty/login
+[2023-04-25 10:44:56.831] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 10:44:56.865] > GET /users/faculty/me
+[2023-04-25 10:44:57.000] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:57.002] > GET /users/faculty/me
+[2023-04-25 10:44:57.015] > GET /users/faculty/class
+[2023-04-25 10:44:57.300] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:44:57.599] > GET /users/faculty/class
+[2023-04-25 10:45:10.595] > GET /users/faculty/me
+[2023-04-25 10:45:10.906] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:45:10.919] > GET /users/faculty/class
+[2023-04-25 10:45:12.326] > GET /users/faculty/me
+[2023-04-25 10:45:12.329] > GET /users/faculty/me
+[2023-04-25 10:45:12.596] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:45:12.599] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:45:12.613] > GET /users/faculty/class
+[2023-04-25 10:45:13.124] > GET /users/faculty/class
+[2023-04-25 10:45:42.461] > GET /users/faculty/me
+[2023-04-25 10:45:42.463] > GET /users/faculty/me
+[2023-04-25 10:45:42.544] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:45:42.544] > Error caught in middleware: Faculty.fineOne is not a function
+[2023-04-25 10:45:42.555] > GET /users/faculty/class
+[2023-04-25 10:45:42.878] > GET /users/faculty/class

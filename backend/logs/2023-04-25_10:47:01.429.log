@@ -1,0 +1,6 @@
+[2023-04-25 10:47:01.486] > Server listening on port 8000
+[2023-04-25 10:47:13.810] > Connected to MongoDB
+[2023-04-25 10:47:15.666] > GET /users/faculty/me
+[2023-04-25 10:47:15.857] > GET /users/faculty/me
+[2023-04-25 10:47:15.864] > GET /users/faculty/class
+[2023-04-25 10:47:16.073] > GET /users/faculty/class

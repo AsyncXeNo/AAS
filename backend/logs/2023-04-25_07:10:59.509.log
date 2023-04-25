@@ -1,0 +1,6 @@
+[2023-04-25 07:10:59.557] > Server listening on port 8000
+[2023-04-25 07:11:00.776] > Connected to MongoDB
+[2023-04-25 07:12:51.068] > POST /users/student/register
+[2023-04-25 07:12:51.341] > Error caught in middleware: Student validation failed: facialId: Cast to Number failed for value "97e355d5e8614f3c8dec47f66ca1ec4afioa851f" (type string) at path "facialId"
+[2023-04-25 07:12:51.423] > GET /users/student/all
+[2023-04-25 07:12:51.579] > GET /users/student/all

@@ -1,0 +1,207 @@
+[2023-04-25 07:13:22.113] > Server listening on port 8000
+[2023-04-25 07:13:23.398] > Connected to MongoDB
+[2023-04-25 07:15:30.523] > POST /users/student/register
+[2023-04-25 07:15:30.890] > Student registered { id: 644730ba43a75d998003c404, username: kavya }
+[2023-04-25 07:15:30.946] > GET /users/student/all
+[2023-04-25 07:15:31.099] > GET /users/student/all
+[2023-04-25 07:15:44.908] > GET /class/all
+[2023-04-25 07:15:45.125] > GET /class/all
+[2023-04-25 07:43:14.611] > GET /users/faculty/all
+[2023-04-25 07:43:14.613] > GET /users/student/all
+[2023-04-25 07:43:16.180] > GET /users/faculty/all
+[2023-04-25 07:43:16.183] > GET /users/faculty/all
+[2023-04-25 07:43:16.186] > GET /users/student/all
+[2023-04-25 07:43:16.189] > GET /users/student/all
+[2023-04-25 07:43:47.918] > GET /users/faculty/all
+[2023-04-25 07:43:49.510] > GET /users/faculty/all
+[2023-04-25 07:43:49.515] > GET /users/student/all
+[2023-04-25 07:43:49.680] > GET /users/student/all
+[2023-04-25 07:43:49.683] > GET /users/faculty/all
+[2023-04-25 07:43:51.561] > GET /users/faculty/all
+[2023-04-25 07:43:51.563] > GET /users/faculty/all
+[2023-04-25 07:43:51.566] > GET /users/student/all
+[2023-04-25 07:43:51.569] > GET /users/student/all
+[2023-04-25 07:43:59.865] > GET /users/faculty/all
+[2023-04-25 07:43:59.942] > GET /users/faculty/all
+[2023-04-25 07:45:05.628] > GET /users/faculty/all
+[2023-04-25 07:45:05.630] > GET /users/faculty/all
+[2023-04-25 07:46:07.684] > GET /users/faculty/all
+[2023-04-25 07:46:07.688] > GET /users/student/all
+[2023-04-25 07:46:07.791] > GET /users/student/all
+[2023-04-25 07:46:07.794] > GET /users/faculty/all
+[2023-04-25 07:46:53.612] > GET /users/faculty/all
+[2023-04-25 07:46:53.804] > GET /users/faculty/all
+[2023-04-25 07:47:09.014] > GET /users/faculty/all
+[2023-04-25 07:47:35.433] > GET /users/faculty/all
+[2023-04-25 07:47:35.435] > GET /users/student/all
+[2023-04-25 07:47:35.513] > GET /users/student/all
+[2023-04-25 07:47:35.587] > GET /users/faculty/all
+[2023-04-25 07:47:42.513] > GET /users/faculty/all
+[2023-04-25 07:47:42.515] > GET /users/student/all
+[2023-04-25 07:47:50.181] > GET /users/faculty/all
+[2023-04-25 07:47:50.183] > GET /users/student/all
+[2023-04-25 07:47:50.704] > GET /users/faculty/all
+[2023-04-25 07:47:50.705] > GET /users/student/all
+[2023-04-25 07:48:12.889] > GET /users/faculty/all
+[2023-04-25 07:48:12.890] > GET /users/student/all
+[2023-04-25 07:48:16.522] > GET /users/faculty/all
+[2023-04-25 07:48:16.524] > GET /users/student/all
+[2023-04-25 07:48:35.473] > GET /users/faculty/all
+[2023-04-25 07:48:35.475] > GET /users/student/all
+[2023-04-25 07:48:55.051] > GET /users/faculty/all
+[2023-04-25 07:48:55.053] > GET /users/student/all
+[2023-04-25 07:49:06.700] > GET /users/faculty/all
+[2023-04-25 07:49:06.702] > GET /users/student/all
+[2023-04-25 07:49:21.557] > GET /users/faculty/all
+[2023-04-25 07:49:21.560] > GET /users/student/all
+[2023-04-25 07:49:23.377] > GET /users/faculty/all
+[2023-04-25 07:49:23.379] > GET /users/student/all
+[2023-04-25 07:49:23.381] > GET /users/faculty/all
+[2023-04-25 07:49:23.383] > GET /users/student/all
+[2023-04-25 07:49:49.600] > GET /users/faculty/all
+[2023-04-25 07:49:49.602] > GET /users/student/all
+[2023-04-25 07:50:14.777] > GET /users/faculty/all
+[2023-04-25 07:50:14.779] > GET /users/student/all
+[2023-04-25 07:50:17.370] > GET /users/faculty/all
+[2023-04-25 07:50:17.372] > GET /users/student/all
+[2023-04-25 07:50:17.378] > GET /users/faculty/all
+[2023-04-25 07:50:17.380] > GET /users/student/all
+[2023-04-25 07:50:26.227] > GET /users/faculty/all
+[2023-04-25 07:50:26.229] > GET /users/student/all
+[2023-04-25 07:50:42.896] > GET /users/faculty/all
+[2023-04-25 07:50:42.898] > GET /users/student/all
+[2023-04-25 07:50:45.958] > GET /users/faculty/all
+[2023-04-25 07:50:45.960] > GET /users/student/all
+[2023-04-25 07:50:48.375] > GET /users/faculty/all
+[2023-04-25 07:50:48.378] > GET /users/faculty/all
+[2023-04-25 07:50:48.379] > GET /users/student/all
+[2023-04-25 07:50:48.384] > GET /users/student/all
+[2023-04-25 07:51:58.521] > GET /users/faculty/all
+[2023-04-25 07:51:58.523] > GET /users/student/all
+[2023-04-25 07:52:04.980] > GET /users/faculty/all
+[2023-04-25 07:52:04.982] > GET /users/student/all
+[2023-04-25 07:52:22.868] > GET /users/faculty/all
+[2023-04-25 07:52:22.871] > GET /users/student/all
+[2023-04-25 07:52:27.130] > POST /class/register
+[2023-04-25 07:52:27.234] > Error caught in middleware: Class validation failed: classTeacher: Cast to ObjectId failed for value "[
+  {
+    _id: '6446dfa925a579548a2ce724',
+    username: 'testfaculty',
+    password: '$2a$10$ee97/zrom4fMGK28.M5e0e7BvPgX8L99eoE4l.tFRwr/MQnfKzEAi',
+    universityEmail: 'test.faculty@christ.in',
+    department: 'Science',
+    fullName: 'Test Faculty',
+    personalEmail: 'testfaculty@gmail.com',
+    phone: [ 9871464625 ],
+    address: [ 'XXX', 'XXXX' ],
+    createdAt: '2023-04-24T19:59:37.563Z',
+    updatedAt: '2023-04-24T19:59:37.563Z',
+    __v: 0
+  },
+  {
+    _id: '6447233b5bc94a414aa06be3',
+    username: 'testfaculty2',
+    password: '$2a$10$x0YRQy0B2wTLynSKocd7vutNrwxKdxTqcL81fIKKtFBZd3HO.HUMi',
+    universityEmail: 'test@faculty.com',
+    department: 'Science',
+    fullName: 'Test Faculty',
+    personalEmail: 'test@faculty.com',
+    phone: [ 9871461625 ],
+    address: [ 'sefwefjweofwefi', 'sdgisdoigfsdfgsdgf' ],
+    createdAt: '2023-04-25T00:47:55.662Z',
+    updatedAt: '2023-04-25T00:47:55.662Z',
+    __v: 0
+  }
+]" (type Array) at path "classTeacher" because of "BSONError"
+[2023-04-25 07:53:11.019] > GET /users/faculty/all
+[2023-04-25 07:53:11.021] > GET /users/student/all
+[2023-04-25 07:53:18.627] > GET /users/faculty/all
+[2023-04-25 07:53:18.629] > GET /users/student/all
+[2023-04-25 07:53:19.232] > GET /users/faculty/all
+[2023-04-25 07:53:19.233] > GET /users/student/all
+[2023-04-25 07:53:19.716] > GET /users/faculty/all
+[2023-04-25 07:53:19.717] > GET /users/student/all
+[2023-04-25 07:53:24.109] > GET /users/faculty/all
+[2023-04-25 07:53:24.111] > GET /users/student/all
+[2023-04-25 07:53:35.412] > GET /users/faculty/all
+[2023-04-25 07:53:35.413] > GET /users/student/all
+[2023-04-25 07:53:37.234] > GET /users/faculty/all
+[2023-04-25 07:53:37.236] > GET /users/student/all
+[2023-04-25 07:53:39.017] > POST /class/register
+[2023-04-25 07:53:39.115] > Error caught in middleware: Class validation failed: classTeacher: Cast to ObjectId failed for value "[
+  {
+    _id: '6446dfa925a579548a2ce724',
+    username: 'testfaculty',
+    password: '$2a$10$ee97/zrom4fMGK28.M5e0e7BvPgX8L99eoE4l.tFRwr/MQnfKzEAi',
+    universityEmail: 'test.faculty@christ.in',
+    department: 'Science',
+    fullName: 'Test Faculty',
+    personalEmail: 'testfaculty@gmail.com',
+    phone: [ 9871464625 ],
+    address: [ 'XXX', 'XXXX' ],
+    createdAt: '2023-04-24T19:59:37.563Z',
+    updatedAt: '2023-04-24T19:59:37.563Z',
+    __v: 0
+  },
+  {
+    _id: '6447233b5bc94a414aa06be3',
+    username: 'testfaculty2',
+    password: '$2a$10$x0YRQy0B2wTLynSKocd7vutNrwxKdxTqcL81fIKKtFBZd3HO.HUMi',
+    universityEmail: 'test@faculty.com',
+    department: 'Science',
+    fullName: 'Test Faculty',
+    personalEmail: 'test@faculty.com',
+    phone: [ 9871461625 ],
+    address: [ 'sefwefjweofwefi', 'sdgisdoigfsdfgsdgf' ],
+    createdAt: '2023-04-25T00:47:55.662Z',
+    updatedAt: '2023-04-25T00:47:55.662Z',
+    __v: 0
+  }
+]" (type Array) at path "classTeacher" because of "BSONError"
+[2023-04-25 07:54:06.651] > GET /class/all
+[2023-04-25 07:54:06.726] > GET /class/all
+[2023-04-25 07:54:09.585] > GET /users/faculty/all
+[2023-04-25 07:54:09.732] > GET /users/faculty/all
+[2023-04-25 07:54:11.504] > GET /users/student/all
+[2023-04-25 07:54:11.636] > GET /users/student/all
+[2023-04-25 07:54:13.924] > GET /users/faculty/all
+[2023-04-25 07:54:14.137] > GET /users/faculty/all
+[2023-04-25 07:54:27.606] > GET /users/faculty/all
+[2023-04-25 07:55:14.313] > GET /users/faculty/all
+[2023-04-25 07:55:14.315] > GET /users/faculty/all
+[2023-04-25 07:55:30.554] > GET /users/faculty/all
+[2023-04-25 07:55:40.535] > GET /users/faculty/all
+[2023-04-25 07:56:05.424] > GET /users/faculty/all
+[2023-04-25 07:56:05.652] > GET /users/faculty/all
+[2023-04-25 07:56:08.790] > DELETE /users/faculty/delete
+[2023-04-25 07:56:08.929] > Error caught in middleware: No user ID provided to delete
+[2023-04-25 07:56:10.441] > GET /users/faculty/all
+[2023-04-25 07:56:10.669] > GET /users/faculty/all
+[2023-04-25 07:56:11.645] > GET /users/faculty/all
+[2023-04-25 07:56:11.647] > GET /users/faculty/all
+[2023-04-25 07:56:42.625] > GET /users/faculty/all
+[2023-04-25 07:56:53.457] > GET /users/faculty/all
+[2023-04-25 07:56:55.493] > DELETE /users/faculty/delete
+[2023-04-25 07:56:55.494] > Error caught in middleware: Not authorized, no token
+[2023-04-25 07:57:00.332] > GET /users/faculty/all
+[2023-04-25 07:57:06.249] > GET /users/faculty/all
+[2023-04-25 07:57:12.779] > GET /users/faculty/all
+[2023-04-25 07:57:14.144] > GET /users/faculty/all
+[2023-04-25 07:57:14.146] > GET /users/faculty/all
+[2023-04-25 07:57:15.541] > DELETE /users/faculty/delete
+[2023-04-25 07:57:15.582] > Error caught in middleware: No user ID provided to delete
+[2023-04-25 07:57:24.545] > GET /users/faculty/all
+[2023-04-25 07:57:24.939] > GET /users/faculty/all
+[2023-04-25 07:57:31.272] > GET /users/faculty/all
+[2023-04-25 07:57:40.453] > GET /users/faculty/all
+[2023-04-25 07:57:51.129] > GET /users/faculty/all
+[2023-04-25 07:57:52.959] > GET /users/faculty/all
+[2023-04-25 07:57:52.960] > GET /users/faculty/all
+[2023-04-25 07:57:54.357] > DELETE /users/faculty/delete
+[2023-04-25 07:57:54.398] > Error caught in middleware: No user ID provided to delete
+[2023-04-25 07:58:42.800] > GET /users/faculty/all
+[2023-04-25 07:58:45.180] > DELETE /users/faculty/delete
+[2023-04-25 07:58:45.396] > Faculty deleted { id: 6446dfa925a579548a2ce724 }
+[2023-04-25 07:58:46.843] > GET /users/faculty/all
+[2023-04-25 07:58:46.845] > GET /users/faculty/all
+[2023-04-25 07:58:50.619] > GET /users/faculty/all

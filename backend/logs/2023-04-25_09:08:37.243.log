@@ -1,0 +1,22 @@
+[2023-04-25 09:08:37.299] > Server listening on port 8000
+[2023-04-25 09:08:38.093] > Connected to MongoDB
+[2023-04-25 09:08:42.233] > GET /users/student/all
+[2023-04-25 09:08:42.242] > GET /users/student/all
+[2023-04-25 09:08:45.182] > GET /class/all
+[2023-04-25 09:08:45.364] > GET /class/all
+[2023-04-25 09:08:50.426] > GET /users/faculty/all
+[2023-04-25 09:08:50.559] > GET /users/faculty/all
+[2023-04-25 09:08:53.202] > GET /class/all
+[2023-04-25 09:08:53.531] > GET /class/all
+[2023-04-25 09:12:25.544] > POST /users/admin/login
+[2023-04-25 09:12:25.825] > Error caught in middleware: Incorrect Credentials
+[2023-04-25 09:12:31.271] > POST /users/admin/login
+[2023-04-25 09:12:31.491] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 09:12:34.659] > GET /class/all
+[2023-04-25 09:12:35.006] > GET /class/all
+[2023-04-25 09:12:37.009] > GET /users/student/all
+[2023-04-25 09:12:37.358] > GET /users/student/all
+[2023-04-25 09:12:39.241] > GET /users/faculty/all
+[2023-04-25 09:12:39.610] > GET /users/faculty/all
+[2023-04-25 09:12:49.950] > POST /users/student/login
+[2023-04-25 09:12:50.260] > Error caught in middleware: admin is not defined

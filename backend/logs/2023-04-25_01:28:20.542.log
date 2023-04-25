@@ -1,0 +1,6 @@
+[2023-04-25 01:28:20.601] > Server listening on port 8000
+[2023-04-25 01:28:22.044] > Connected to MongoDB
+[2023-04-25 01:29:20.635] > POST /users/faculty/register
+[2023-04-25 01:29:20.811] > Error caught in middleware: Faculty validation failed: phone.0: Cast to [Number] failed for value "[ 'XXXXXXXXXX' ]" (type string) at path "phone.0" because of "CastError"
+[2023-04-25 01:29:37.348] > POST /users/faculty/register
+[2023-04-25 01:29:37.646] > Error caught in middleware: logger is not defined

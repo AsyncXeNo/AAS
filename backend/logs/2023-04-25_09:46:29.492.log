@@ -1,0 +1,39 @@
+[2023-04-25 09:46:29.550] > Server listening on port 8000
+[2023-04-25 09:46:31.316] > Connected to MongoDB
+[2023-04-25 09:46:58.220] > POST /users/student/login
+[2023-04-25 09:46:58.605] > User logged in as student { id: 6447482e8a873809d4426809, username: imon }
+[2023-04-25 09:50:00.833] > GET /users/student/me
+[2023-04-25 09:50:00.987] > GET /users/student/me
+[2023-04-25 09:50:02.814] > GET /users/student/me
+[2023-04-25 09:50:02.818] > GET /users/student/me
+[2023-04-25 09:50:13.894] > GET /users/student/me
+[2023-04-25 09:50:15.189] > GET /users/student/me
+[2023-04-25 09:50:15.191] > GET /users/student/me
+[2023-04-25 09:51:47.660] > GET /users/student/me
+[2023-04-25 09:51:48.233] > GET /users/student/me
+[2023-04-25 09:51:54.337] > GET /users/student/me
+[2023-04-25 09:52:27.203] > GET /users/student/me
+[2023-04-25 09:52:29.532] > GET /users/student/me
+[2023-04-25 09:52:32.222] > GET /users/student/me
+[2023-04-25 09:54:44.920] > POST /users/faculty/login
+[2023-04-25 09:54:45.864] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 09:54:45.897] > GET /users/faculty/me
+[2023-04-25 09:54:46.031] > GET /users/faculty/me
+[2023-04-25 10:00:39.004] > GET /users/faculty/me
+[2023-04-25 10:00:39.232] > GET /users/faculty/me
+[2023-04-25 10:00:48.485] > GET /users/faculty/me
+[2023-04-25 10:00:52.095] > GET /users/faculty/me
+[2023-04-25 10:00:59.329] > GET /users/faculty/me
+[2023-04-25 10:01:16.085] > GET /users/faculty/me
+[2023-04-25 10:01:16.088] > GET /users/faculty/me
+[2023-04-25 10:04:45.286] > GET /users/faculty/me
+[2023-04-25 10:04:45.656] > GET /users/faculty/me
+[2023-04-25 10:05:01.727] > GET /users/faculty/me
+[2023-04-25 10:05:02.043] > GET /users/faculty/me
+[2023-04-25 10:05:26.609] > GET /users/faculty/me
+[2023-04-25 10:05:51.724] > GET /users/faculty/me
+[2023-04-25 10:05:51.830] > GET /users/faculty/me
+[2023-04-25 10:05:53.583] > GET /users/faculty/me
+[2023-04-25 10:05:53.704] > GET /users/faculty/class
+[2023-04-25 10:06:05.147] > GET /users/faculty/me
+[2023-04-25 10:06:05.514] > GET /users/faculty/class

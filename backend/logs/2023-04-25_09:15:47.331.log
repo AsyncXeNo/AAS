@@ -1,0 +1,4 @@
+[2023-04-25 09:15:47.387] > Server listening on port 8000
+[2023-04-25 09:15:53.167] > Connected to MongoDB
+[2023-04-25 09:16:00.590] > POST /users/student/login
+[2023-04-25 09:16:00.822] > User logged in as student { id: 6447482e8a873809d4426809, username: imon }

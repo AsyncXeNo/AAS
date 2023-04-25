@@ -1,0 +1,28 @@
+[2023-04-25 06:41:03.469] > Server listening on port 8000
+[2023-04-25 06:41:05.164] > Connected to MongoDB
+[2023-04-25 06:41:54.022] > POST /users/student/register
+[2023-04-25 06:41:54.110] > Error caught in middleware: Incomplete information
+[2023-04-25 06:41:54.149] > GET /users/student/all
+[2023-04-25 06:41:54.311] > GET /users/student/all
+[2023-04-25 06:43:33.630] > POST /users/student/register
+[2023-04-25 06:43:33.725] > Error caught in middleware: Incomplete information
+[2023-04-25 06:43:33.762] > GET /users/student/all
+[2023-04-25 06:43:33.930] > GET /users/student/all
+[2023-04-25 06:44:21.127] > POST /users/student/register
+[2023-04-25 06:44:21.253] > Error caught in middleware: Incomplete information
+[2023-04-25 06:44:21.290] > GET /users/student/all
+[2023-04-25 06:44:21.459] > GET /users/student/all
+[2023-04-25 06:45:49.625] > GET /users/student/all
+[2023-04-25 06:45:49.776] > GET /users/student/all
+[2023-04-25 06:46:21.219] > GET /users/student/all
+[2023-04-25 06:46:21.223] > GET /users/student/all
+[2023-04-25 06:47:50.451] > POST /users/student/register
+[2023-04-25 06:47:50.641] > Error caught in middleware: Incomplete information
+[2023-04-25 06:47:50.681] > GET /users/student/all
+[2023-04-25 06:47:50.848] > GET /users/student/all
+[2023-04-25 06:51:40.496] > POST /users/student/register
+[2023-04-25 06:51:40.569] > Error caught in middleware: Incomplete information
+[2023-04-25 06:51:40.608] > GET /users/student/all
+[2023-04-25 06:51:40.775] > GET /users/student/all
+[2023-04-25 06:54:56.400] > GET /users/student/all
+[2023-04-25 06:54:56.566] > GET /users/student/all

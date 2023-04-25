@@ -1,0 +1,53 @@
+[2023-04-25 08:05:13.991] > Server listening on port 8000
+[2023-04-25 08:05:14.576] > Connected to MongoDB
+[2023-04-25 08:05:18.308] > GET /class/all
+[2023-04-25 08:05:18.383] > GET /class/all
+[2023-04-25 08:05:19.520] > GET /class/all
+[2023-04-25 08:05:19.523] > GET /class/all
+[2023-04-25 08:05:23.527] > GET /class/all
+[2023-04-25 08:05:23.530] > GET /class/all
+[2023-04-25 08:05:35.395] > GET /class/all
+[2023-04-25 08:05:35.401] > GET /class/all
+[2023-04-25 08:05:38.232] > DELETE /class/delete
+[2023-04-25 08:05:38.299] > Class deleted { id: 64473b8d288bca887e68fbd6 }
+[2023-04-25 08:05:40.352] > GET /class/all
+[2023-04-25 08:05:40.460] > GET /class/all
+[2023-04-25 08:20:36.276] > GET /class/all
+[2023-04-25 08:36:21.445] > GET /class/all
+[2023-04-25 08:36:37.635] > GET /class/all
+[2023-04-25 08:37:10.698] > Error caught in middleware: Not authorized
+[2023-04-25 08:37:10.701] > Error caught in middleware: Not authorized
+[2023-04-25 08:37:10.702] > Error caught in middleware: Not authorized
+[2023-04-25 08:37:17.968] > GET /users/student/all
+[2023-04-25 08:37:20.527] > GET /users/faculty/all
+[2023-04-25 08:37:20.671] > GET /users/faculty/all
+[2023-04-25 08:37:32.265] > POST /users/student/login
+[2023-04-25 08:37:32.349] > Error caught in middleware: Student does not exist
+[2023-04-25 08:37:40.316] > POST /users/admin/login
+[2023-04-25 08:37:40.632] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 08:37:42.953] > GET /class/all
+[2023-04-25 08:37:43.269] > GET /class/all
+[2023-04-25 08:37:45.520] > GET /users/student/all
+[2023-04-25 08:37:45.871] > GET /users/student/all
+[2023-04-25 08:37:52.963] > GET /users/student/all
+[2023-04-25 08:37:53.501] > GET /users/student/all
+[2023-04-25 08:39:37.951] > GET /users/student/all
+[2023-04-25 08:39:38.315] > GET /users/student/all
+[2023-04-25 08:40:58.668] > GET /users/student/all
+[2023-04-25 08:40:58.791] > GET /users/student/all
+[2023-04-25 08:42:31.921] > GET /users/student/all
+[2023-04-25 08:42:32.297] > GET /users/student/all
+[2023-04-25 08:44:10.709] > GET /users/student/all
+[2023-04-25 08:44:10.843] > GET /users/student/all
+[2023-04-25 08:46:20.654] > GET /users/student/all
+[2023-04-25 08:46:20.657] > GET /users/student/all
+[2023-04-25 08:46:23.011] > DELETE /users/student/delete
+[2023-04-25 08:46:23.295] > Student deleted { id: 644730ba43a75d998003c404 }
+[2023-04-25 08:46:24.387] > GET /users/student/all
+[2023-04-25 08:46:24.828] > GET /users/student/all
+[2023-04-25 08:47:32.578] > GET /users/student/all
+[2023-04-25 08:47:33.341] > GET /users/student/all
+[2023-04-25 08:49:16.393] > GET /users/student/all
+[2023-04-25 08:49:16.756] > GET /users/student/all
+[2023-04-25 08:50:08.753] > GET /users/student/all
+[2023-04-25 08:50:09.388] > GET /users/student/all

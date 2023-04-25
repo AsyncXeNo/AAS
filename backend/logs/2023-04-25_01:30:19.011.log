@@ -1,0 +1,81 @@
+[2023-04-25 01:30:19.065] > Server listening on port 8000
+[2023-04-25 01:30:26.157] > Connected to MongoDB
+[2023-04-25 01:30:28.196] > POST /users/faculty/register
+[2023-04-25 01:30:28.303] > Error caught in middleware: Faculty already exists
+[2023-04-25 06:09:47.624] > POST /users/faculty/register
+[2023-04-25 06:09:48.153] > Error caught in middleware: Incomplete information
+[2023-04-25 06:10:15.975] > POST /users/faculty/register
+[2023-04-25 06:10:16.106] > Error caught in middleware: Incomplete information
+[2023-04-25 06:10:18.621] > POST /users/faculty/register
+[2023-04-25 06:10:18.667] > Error caught in middleware: Incomplete information
+[2023-04-25 06:11:51.309] > POST /users/faculty/register
+[2023-04-25 06:11:51.339] > Error caught in middleware: Incomplete information
+[2023-04-25 06:11:51.363] > GET /users/faculty/all
+[2023-04-25 06:11:51.426] > GET /users/faculty/all
+[2023-04-25 06:12:12.967] > GET /users/faculty/all
+[2023-04-25 06:12:13.049] > GET /users/faculty/all
+[2023-04-25 06:13:59.629] > GET /users/faculty/all
+[2023-04-25 06:14:46.048] > POST /users/faculty/register
+[2023-04-25 06:14:46.137] > Error caught in middleware: Incomplete information
+[2023-04-25 06:15:28.321] > POST /users/faculty/register
+[2023-04-25 06:15:28.428] > Error caught in middleware: Incomplete information
+[2023-04-25 06:15:28.466] > GET /users/faculty/all
+[2023-04-25 06:15:28.636] > GET /users/faculty/all
+[2023-04-25 06:16:27.175] > GET /users/student/all
+[2023-04-25 06:16:27.412] > GET /users/student/all
+[2023-04-25 06:16:31.571] > GET /users/faculty/all
+[2023-04-25 06:16:31.640] > GET /users/faculty/all
+[2023-04-25 06:16:45.014] > POST /users/faculty/login
+[2023-04-25 06:16:45.126] > Error caught in middleware: Faculty does not exist
+[2023-04-25 06:16:55.148] > POST /users/faculty/login
+[2023-04-25 06:16:55.178] > Error caught in middleware: Faculty does not exist
+[2023-04-25 06:17:02.802] > POST /users/admin/login
+[2023-04-25 06:17:02.919] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 06:17:05.266] > GET /users/faculty/all
+[2023-04-25 06:17:05.505] > GET /users/faculty/all
+[2023-04-25 06:17:55.368] > POST /users/faculty/register
+[2023-04-25 06:17:55.783] > Faculty registered { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 06:17:55.824] > GET /users/faculty/all
+[2023-04-25 06:17:55.991] > GET /users/faculty/all
+[2023-04-25 06:18:15.791] > POST /users/faculty/login
+[2023-04-25 06:18:15.931] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 06:18:35.493] > POST /users/admin/login
+[2023-04-25 06:18:35.696] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 06:18:38.945] > GET /users/faculty/all
+[2023-04-25 06:18:39.103] > GET /users/faculty/all
+[2023-04-25 06:18:42.165] > GET /users/student/all
+[2023-04-25 06:18:42.375] > GET /users/student/all
+[2023-04-25 06:24:19.667] > GET /users/student/all
+[2023-04-25 06:24:19.669] > GET /users/student/all
+[2023-04-25 06:25:10.215] > POST /users/student/register
+[2023-04-25 06:25:10.245] > Error caught in middleware: Incomplete information
+[2023-04-25 06:25:10.273] > GET /users/student/all
+[2023-04-25 06:25:10.374] > GET /users/student/all
+[2023-04-25 06:25:26.742] > GET /users/student/all
+[2023-04-25 06:25:26.745] > GET /users/student/all
+[2023-04-25 06:25:31.191] > POST /users/student/register
+[2023-04-25 06:25:31.260] > Error caught in middleware: Incomplete information
+[2023-04-25 06:25:31.284] > GET /users/student/all
+[2023-04-25 06:25:31.466] > GET /users/student/all
+[2023-04-25 06:25:56.755] > POST /users/student/register
+[2023-04-25 06:25:56.861] > Error caught in middleware: Incomplete information
+[2023-04-25 06:25:56.898] > GET /users/student/all
+[2023-04-25 06:25:57.068] > GET /users/student/all
+[2023-04-25 06:26:09.584] > GET /users/student/all
+[2023-04-25 06:26:09.586] > GET /users/student/all
+[2023-04-25 06:26:15.528] > POST /users/student/register
+[2023-04-25 06:26:15.600] > Error caught in middleware: Incomplete information
+[2023-04-25 06:26:15.636] > GET /users/student/all
+[2023-04-25 06:26:15.806] > GET /users/student/all
+[2023-04-25 06:26:56.014] > POST /users/student/register
+[2023-04-25 06:26:56.045] > Error caught in middleware: Incomplete information
+[2023-04-25 06:26:56.074] > GET /users/student/all
+[2023-04-25 06:26:56.136] > GET /users/student/all
+[2023-04-25 06:28:08.224] > GET /users/faculty/all
+[2023-04-25 06:28:08.551] > GET /users/faculty/all
+[2023-04-25 06:28:50.053] > GET /users/student/all
+[2023-04-25 06:28:50.226] > GET /users/student/all
+[2023-04-25 06:30:14.613] > POST /users/student/register
+[2023-04-25 06:30:14.706] > Error caught in middleware: Incomplete information
+[2023-04-25 06:30:14.738] > GET /users/student/all
+[2023-04-25 06:30:14.912] > GET /users/student/all

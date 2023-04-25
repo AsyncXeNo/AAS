@@ -1,0 +1,29 @@
+[2023-04-25 08:50:15.013] > Server listening on port 8000
+[2023-04-25 08:50:23.714] > GET /users/student/all
+[2023-04-25 08:50:31.107] > Connected to MongoDB
+[2023-04-25 08:53:46.190] > POST /users/student/register
+[2023-04-25 08:53:46.885] > Student registered { id: 644747c28a873809d4426801, username: kavya }
+[2023-04-25 08:53:46.931] > GET /users/student/all
+[2023-04-25 08:53:47.590] > GET /users/student/all
+[2023-04-25 08:55:33.598] > POST /users/student/register
+[2023-04-25 08:55:34.200] > Student registered { id: 6447482e8a873809d4426809, username: imon }
+[2023-04-25 08:55:34.239] > GET /users/student/all
+[2023-04-25 08:55:34.620] > GET /users/student/all
+[2023-04-25 08:56:35.361] > GET /users/student/all
+[2023-04-25 08:56:35.522] > GET /users/student/all
+[2023-04-25 08:58:06.605] > GET /users/student/all
+[2023-04-25 08:58:07.142] > GET /users/student/all
+[2023-04-25 09:00:00.456] > POST /users/student/register
+[2023-04-25 09:00:01.049] > Student registered { id: 644749388a873809d4426819, username: gaurav }
+[2023-04-25 09:00:01.091] > GET /users/student/all
+[2023-04-25 09:00:01.466] > GET /users/student/all
+[2023-04-25 09:03:33.018] > GET /users/student/all
+[2023-04-25 09:03:33.410] > GET /users/student/all
+[2023-04-25 09:04:59.368] > GET /users/faculty/all
+[2023-04-25 09:04:59.652] > GET /users/faculty/all
+[2023-04-25 09:06:44.962] > GET /users/faculty/all
+[2023-04-25 09:06:45.332] > GET /users/faculty/all
+[2023-04-25 09:07:00.274] > GET /users/student/all
+[2023-04-25 09:07:00.698] > GET /users/student/all
+[2023-04-25 09:07:40.256] > GET /users/student/all
+[2023-04-25 09:07:43.858] > GET /users/student/all

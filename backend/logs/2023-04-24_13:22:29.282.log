@@ -1,0 +1,40 @@
+[2023-04-24 13:22:29.332] > Server listening on port 8000
+[2023-04-24 13:22:30.253] > Connected to MongoDB
+[2023-04-24 19:30:27.995] > POST /users/student/login
+[2023-04-24 19:30:28.034] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:30:29.710] > POST /users/student/login
+[2023-04-24 19:30:29.771] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:30:30.079] > POST /users/student/login
+[2023-04-24 19:30:30.179] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:30:30.415] > POST /users/student/login
+[2023-04-24 19:30:30.486] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:31:38.528] > POST /users/admin/login
+[2023-04-24 19:31:38.582] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:31:43.577] > POST /users/admin/login
+[2023-04-24 19:31:43.702] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:32:33.337] > POST /users/admin/login
+[2023-04-24 19:32:33.469] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:32:34.044] > POST /users/admin/login
+[2023-04-24 19:32:34.084] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:32:34.991] > POST /users/admin/login
+[2023-04-24 19:32:35.108] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:32:35.913] > POST /users/admin/login
+[2023-04-24 19:32:36.029] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:32:42.221] > POST /users/admin/login
+[2023-04-24 19:32:42.362] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-24 19:33:21.059] > POST /users/admin/login
+[2023-04-24 19:33:21.189] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:33:22.579] > POST /users/admin/login
+[2023-04-24 19:33:22.622] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:33:40.812] > POST /users/admin/login
+[2023-04-24 19:33:40.953] > Error caught in middleware: Incorrect Credentials
+[2023-04-24 19:33:47.594] > POST /users/admin/login
+[2023-04-24 19:33:47.790] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-24 19:34:37.460] > POST /users/admin/login
+[2023-04-24 19:34:37.659] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-24 19:41:58.771] > POST /users/student/login
+[2023-04-24 19:41:58.855] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:42:01.075] > POST /users/student/login
+[2023-04-24 19:42:01.209] > Error caught in middleware: req.status is not a function
+[2023-04-24 19:42:08.592] > POST /users/admin/login
+[2023-04-24 19:42:08.684] > Error caught in middleware: Incorrect Credentials

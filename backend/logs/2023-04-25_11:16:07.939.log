@@ -1,0 +1,180 @@
+[2023-04-25 11:16:07.988] > Server listening on port 8000
+[2023-04-25 11:16:39.962] > Connected to MongoDB
+[2023-04-25 11:17:32.003] > GET /users/faculty/class
+[2023-04-25 11:17:37.313] > GET /users/faculty/class
+[2023-04-25 11:17:37.317] > GET /users/faculty/class
+[2023-04-25 11:17:46.415] > GET /users/faculty/class
+[2023-04-25 11:18:12.298] > GET /users/faculty/class
+[2023-04-25 11:18:15.297] > GET /users/faculty/class
+[2023-04-25 11:18:31.306] > GET /users/faculty/class
+[2023-04-25 11:18:45.305] > GET /users/faculty/class
+[2023-04-25 11:19:48.166] > GET /users/faculty/class
+[2023-04-25 11:19:48.172] > GET /users/faculty/class
+[2023-04-25 11:20:11.683] > POST /users/student/login
+[2023-04-25 11:20:13.530] > POST /users/student/login
+[2023-04-25 11:20:15.451] > Error caught in middleware: Student does not exist
+[2023-04-25 11:20:19.955] > Error caught in middleware: Student does not exist
+[2023-04-25 11:20:52.758] > POST /users/admin/login
+[2023-04-25 11:20:53.009] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 11:21:16.750] > GET /users/student/all
+[2023-04-25 11:21:17.101] > GET /users/student/all
+[2023-04-25 11:25:17.449] > GET /users/student/all
+[2023-04-25 11:25:19.022] > GET /users/student/all
+[2023-04-25 11:27:06.285] > GET /users/student/all
+[2023-04-25 11:27:07.020] > GET /users/student/all
+[2023-04-25 11:28:29.972] > GET /users/student/all
+[2023-04-25 11:28:30.240] > GET /users/student/all
+[2023-04-25 11:29:02.126] > POST /users/faculty/login
+[2023-04-25 11:29:02.376] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 11:29:02.416] > GET /users/faculty/me
+[2023-04-25 11:29:02.709] > GET /users/faculty/me
+[2023-04-25 11:29:02.722] > GET /users/faculty/class
+[2023-04-25 11:29:04.411] > GET /users/faculty/class
+[2023-04-25 11:29:06.335] > GET /users/faculty/class
+[2023-04-25 11:29:07.641] > GET /users/faculty/class
+[2023-04-25 11:29:39.972] > GET /users/faculty/class
+[2023-04-25 11:30:33.425] > GET /users/faculty/class
+[2023-04-25 11:30:34.162] > GET /users/faculty/class
+[2023-04-25 11:30:56.445] > GET /users/faculty/class
+[2023-04-25 11:30:58.775] > GET /users/faculty/class
+[2023-04-25 11:31:12.424] > GET /users/faculty/class
+[2023-04-25 11:31:13.154] > GET /users/faculty/class
+[2023-04-25 11:35:56.702] > GET /users/faculty/class
+[2023-04-25 11:36:02.322] > GET /users/faculty/class
+[2023-04-25 11:36:02.324] > GET /users/faculty/class
+[2023-04-25 11:36:27.990] > GET /users/faculty/class
+[2023-04-25 11:38:19.541] > GET /users/faculty/class
+[2023-04-25 11:38:22.729] > GET /users/faculty/class
+[2023-04-25 11:38:22.732] > GET /users/faculty/class
+[2023-04-25 11:38:38.300] > GET /users/faculty/class
+[2023-04-25 11:39:20.302] > GET /users/faculty/class
+[2023-04-25 11:39:21.007] > GET /users/faculty/class
+[2023-04-25 11:39:23.298] > GET /users/faculty/class
+[2023-04-25 11:39:24.143] > GET /users/faculty/class
+[2023-04-25 11:39:52.312] > GET /users/faculty/class
+[2023-04-25 11:39:53.335] > GET /users/faculty/class
+[2023-04-25 11:40:07.306] > GET /users/faculty/class
+[2023-04-25 11:40:13.602] > GET /users/faculty/class
+[2023-04-25 11:40:13.605] > GET /users/faculty/class
+[2023-04-25 11:42:17.308] > GET /users/faculty/class
+[2023-04-25 11:42:23.389] > GET /users/faculty/class
+[2023-04-25 11:42:23.391] > GET /users/faculty/class
+[2023-04-25 11:43:58.298] > GET /users/faculty/class
+[2023-04-25 11:44:03.301] > GET /users/faculty/class
+[2023-04-25 11:44:11.306] > GET /users/faculty/class
+[2023-04-25 11:45:06.306] > GET /users/faculty/class
+[2023-04-25 11:45:06.863] > GET /users/faculty/class
+[2023-04-25 11:45:16.305] > GET /users/faculty/class
+[2023-04-25 11:45:16.849] > GET /users/faculty/class
+[2023-04-25 11:45:44.752] > GET /users/faculty/class
+[2023-04-25 11:45:45.161] > GET /users/faculty/class
+[2023-04-25 11:46:03.180] > GET /users/faculty/class
+[2023-04-25 11:46:03.671] > GET /users/faculty/class
+[2023-04-25 11:46:04.730] > GET /users/faculty/class
+[2023-04-25 11:46:05.310] > GET /users/faculty/class
+[2023-04-25 11:46:13.243] > GET /users/faculty/class
+[2023-04-25 11:46:13.248] > GET /users/faculty/class
+[2023-04-25 11:47:58.821] > GET /users/faculty/class
+[2023-04-25 11:48:01.036] > GET /users/faculty/class
+[2023-04-25 11:48:01.040] > GET /users/faculty/class
+[2023-04-25 11:48:48.177] > GET /users/faculty/class
+[2023-04-25 11:48:52.578] > GET /users/faculty/class
+[2023-04-25 11:48:54.926] > GET /users/faculty/class
+[2023-04-25 11:48:54.929] > GET /users/faculty/class
+[2023-04-25 11:48:59.437] > GET /users/faculty/class
+[2023-04-25 11:49:09.266] > GET /users/faculty/class
+[2023-04-25 11:49:11.869] > GET /users/faculty/class
+[2023-04-25 11:49:11.873] > GET /users/faculty/class
+[2023-04-25 11:49:15.417] > GET /users/faculty/class
+[2023-04-25 11:49:16.735] > GET /users/faculty/class
+[2023-04-25 11:49:18.642] > GET /users/faculty/class
+[2023-04-25 11:49:18.644] > GET /users/faculty/class
+[2023-04-25 11:50:28.085] > GET /users/faculty/class
+[2023-04-25 12:12:37.697] > GET /users/faculty/class
+[2023-04-25 12:13:13.321] > GET /users/faculty/me
+[2023-04-25 12:13:16.763] > GET /users/faculty/class
+[2023-04-25 12:13:19.100] > Error caught in middleware: Not authorized
+[2023-04-25 12:13:19.101] > Error caught in middleware: Not authorized
+[2023-04-25 12:13:36.769] > GET /users/faculty/class
+[2023-04-25 12:13:43.324] > Error caught in middleware: Not authorized
+[2023-04-25 12:13:46.766] > Error caught in middleware: Not authorized
+[2023-04-25 12:14:06.773] > Error caught in middleware: Not authorized
+[2023-04-25 12:14:31.916] > GET /users/faculty/class
+[2023-04-25 12:14:47.909] > GET /users/faculty/class
+[2023-04-25 12:14:48.898] > GET /users/faculty/class
+[2023-04-25 12:14:56.902] > GET /users/faculty/class
+[2023-04-25 12:15:08.911] > GET /users/faculty/class
+[2023-04-25 12:15:24.903] > GET /users/faculty/class
+[2023-04-25 12:16:20.902] > GET /users/faculty/class
+[2023-04-25 12:16:35.908] > GET /users/faculty/class
+[2023-04-25 12:17:50.571] > GET /users/faculty/class
+[2023-04-25 12:18:20.574] > Error caught in middleware: Not authorized
+[2023-04-25 12:21:45.095] > GET /users/faculty/class
+[2023-04-25 12:22:05.099] > GET /users/faculty/class
+[2023-04-25 12:22:15.097] > Error caught in middleware: Not authorized
+[2023-04-25 12:22:20.081] > GET /users/faculty/class
+[2023-04-25 12:22:20.085] > GET /users/faculty/class
+[2023-04-25 12:22:32.269] > GET /users/faculty/class
+[2023-04-25 12:22:32.272] > GET /users/faculty/class
+[2023-04-25 12:22:43.172] > GET /users/faculty/class
+[2023-04-25 12:22:43.174] > GET /users/faculty/class
+[2023-04-25 12:24:08.118] > GET /users/faculty/class
+[2023-04-25 12:24:08.641] > GET /users/faculty/class
+[2023-04-25 12:24:13.601] > GET /users/faculty/class
+[2023-04-25 12:24:21.781] > GET /users/faculty/class
+[2023-04-25 12:24:27.890] > GET /users/faculty/class
+[2023-04-25 12:24:39.469] > GET /users/faculty/class
+[2023-04-25 12:24:39.471] > GET /users/faculty/class
+[2023-04-25 12:25:18.860] > GET /users/faculty/class
+[2023-04-25 12:25:18.863] > GET /users/faculty/class
+[2023-04-25 12:25:38.976] > GET /users/faculty/me
+[2023-04-25 12:25:39.369] > GET /users/faculty/me
+[2023-04-25 12:25:39.382] > GET /users/faculty/class
+[2023-04-25 12:25:39.979] > GET /users/faculty/class
+[2023-04-25 12:26:02.130] > POST /users/faculty/login
+[2023-04-25 12:26:02.387] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 12:26:02.416] > GET /users/faculty/me
+[2023-04-25 12:26:02.719] > GET /users/faculty/me
+[2023-04-25 12:26:02.733] > GET /users/faculty/class
+[2023-04-25 12:26:03.339] > GET /users/faculty/class
+[2023-04-25 12:26:12.392] > GET /users/faculty/class
+[2023-04-25 12:26:12.754] > GET /users/faculty/class
+[2023-04-25 12:26:46.073] > GET /users/faculty/class
+[2023-04-25 12:26:55.426] > GET /users/faculty/class
+[2023-04-25 12:27:06.349] > GET /users/faculty/class
+[2023-04-25 12:27:10.046] > GET /users/faculty/me
+[2023-04-25 12:27:10.428] > GET /users/faculty/me
+[2023-04-25 12:27:10.433] > GET /users/faculty/class
+[2023-04-25 12:27:10.900] > GET /users/faculty/class
+[2023-04-25 12:27:14.811] > GET /users/faculty/class
+[2023-04-25 12:27:15.438] > GET /users/faculty/class
+[2023-04-25 12:27:36.140] > GET /users/faculty/me
+[2023-04-25 12:27:36.529] > GET /users/faculty/me
+[2023-04-25 12:27:36.540] > GET /users/faculty/class
+[2023-04-25 12:27:36.996] > GET /users/faculty/class
+[2023-04-25 12:27:52.947] > GET /users/faculty/class
+[2023-04-25 12:27:53.941] > GET /users/faculty/class
+[2023-04-25 12:28:01.887] > GET /users/faculty/class
+[2023-04-25 12:28:01.890] > GET /users/faculty/class
+[2023-04-25 12:28:16.221] > GET /users/faculty/me
+[2023-04-25 12:28:16.588] > GET /users/faculty/me
+[2023-04-25 12:28:16.599] > GET /users/faculty/class
+[2023-04-25 12:28:17.197] > GET /users/faculty/class
+[2023-04-25 12:28:17.821] > GET /users/faculty/me
+[2023-04-25 12:28:18.014] > GET /users/faculty/me
+[2023-04-25 12:28:18.025] > GET /users/faculty/class
+[2023-04-25 12:28:18.370] > GET /users/faculty/class
+[2023-04-25 12:28:24.949] > POST /users/admin/login
+[2023-04-25 12:28:25.378] > User logged in as Admin { id: 643ecf70711aa2faf69351b4, username: admin }
+[2023-04-25 12:28:34.213] > GET /users/student/all
+[2023-04-25 12:28:34.709] > GET /users/student/all
+[2023-04-25 12:30:26.353] > POST /users/student/register
+[2023-04-25 12:30:26.740] > Student registered { id: 64477a8a5f1ed8a40c75f088, username: sagar }
+[2023-04-25 12:30:26.779] > GET /users/student/all
+[2023-04-25 12:30:27.153] > GET /users/student/all
+[2023-04-25 12:35:12.311] > POST /users/faculty/login
+[2023-04-25 12:35:12.538] > User logged in as Faculty { id: 6447233b5bc94a414aa06be3, username: testfaculty2 }
+[2023-04-25 12:35:12.571] > GET /users/faculty/me
+[2023-04-25 12:35:12.777] > GET /users/faculty/me
+[2023-04-25 12:35:12.790] > GET /users/faculty/class
+[2023-04-25 12:35:13.008] > GET /users/faculty/class
